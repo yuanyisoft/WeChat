@@ -1,0 +1,14 @@
+D:\Code\ScanTitle\ScanTitle.Service\bin\Debug\ScanTitle.Service.dll
+D:\Code\ScanTitle\ScanTitle.Service\bin\Debug\ScanTitle.Service.pdb
+D:\Code\ScanTitle\ScanTitle.Service\bin\Debug\Newtonsoft.Json.dll
+D:\Code\ScanTitle\ScanTitle.Service\obj\Debug\ScanTitle.Service.csprojResolveAssemblyReference.cache
+D:\Code\ScanTitle\ScanTitle.Service\obj\Debug\ScanTitle.Service.csproj.CoreCompileInputs.cache
+D:\Code\ScanTitle\ScanTitle.Service\obj\Debug\ScanTitle.Service.dll
+D:\Code\ScanTitle\ScanTitle.Service\obj\Debug\ScanTitle.Service.pdb
+D:\Work\ScanTitle\ScanTitle.Service\bin\Debug\ScanTitle.Service.dll
+D:\Work\ScanTitle\ScanTitle.Service\bin\Debug\ScanTitle.Service.pdb
+D:\Work\ScanTitle\ScanTitle.Service\bin\Debug\Newtonsoft.Json.dll
+D:\Work\ScanTitle\ScanTitle.Service\obj\Debug\ScanTitle.Service.csprojResolveAssemblyReference.cache
+D:\Work\ScanTitle\ScanTitle.Service\obj\Debug\ScanTitle.Service.csproj.CoreCompileInputs.cache
+D:\Work\ScanTitle\ScanTitle.Service\obj\Debug\ScanTitle.Service.dll
+D:\Work\ScanTitle\ScanTitle.Service\obj\Debug\ScanTitle.Service.pdb
